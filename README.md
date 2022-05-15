@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ...
 - email: narutoalf@yahoo.com
+- linkedin: https://www.linkedin.com/in/alfredchor/
 
 <!---
 copipastaguy/copipastaguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
