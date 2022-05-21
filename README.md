@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alfred aka copipastaguy</h1>
 <h3 align="center">A passionate Frontend Developer from Singapore that is learning more about backend software development in the future</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=copipastaguy&label=Profile%20views&color=e8a32c&style=flat" alt="copipastaguy" /> </p>
+
 - 🌱 I’m currently learning **ReactJS, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/copipastaguy](https://github.com/copipastaguy)
