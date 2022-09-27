@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alfredchor13@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/copipastaguy/resume/blob/main/resume.pdf)
+- 📄 Know about my experiences [here](https://github.com/copipastaguy/resume/blob/main/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
