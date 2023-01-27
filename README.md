@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=copipastaguy&label=Profile%20views&color=0e75b6&style=flat" alt="copipastaguy" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Golang, Svelte**
+- View my [portfolio](https://copipastaguy.github.io/portfolio/)
+
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PastaPlayground](https://github.com/PastaPlayground)
 
