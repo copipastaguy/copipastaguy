@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alfred aka copipastaguy</h1>
-<h3 align="center">A passionate Frontend Developer from Singapore that is learning more about backend software development in the future</h3>
+<h3 align="center">I'm a Software Engineer from Singapore.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=copipastaguy&label=Profile%20views&color=0e75b6&style=flat" alt="copipastaguy" /> </p>
 
 - View my [portfolio](https://copipastaguy.github.io/portfolio/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Cloud Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PastaPlayground](https://github.com/PastaPlayground)
+- 👨‍💻 All of my practice projects are available at [https://github.com/PastaPlayground](https://github.com/PastaPlayground)
 
 - 📫 How to reach me **alfredchor13@gmail.com**
 
